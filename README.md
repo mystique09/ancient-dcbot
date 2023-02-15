@@ -1,6 +1,6 @@
 # Discord bot
 I was able to retrieve my old discord bot(not complete, as always I'm lazy af).
-I found it in my mega clod drive :smile:.
+I found it in my mega clod drive, uploaded on June 2020 :smile:
 
 *What does this bot do?*
 - prune messages
