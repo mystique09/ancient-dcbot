@@ -2,6 +2,9 @@
 I was able to retrieve my old discord bot(not complete, as always I'm lazy af).
 I found it in my mega clod drive, uploaded on June 2020 :smile:
 
+>**Note**
+>Dead project, obviously. I just want to put this on my repo, 'cause why not?
+
 *What does this bot do?*
 - prune messages
 - ban user
